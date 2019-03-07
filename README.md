@@ -7,5 +7,7 @@ Contains a part of raw data.
 The Python code to deal with raw EEG data and recognize different EEG signals.
 
 Environment:
+
 Numpy: 1.16.1
+
 Scikit-learn: 0.18.1
